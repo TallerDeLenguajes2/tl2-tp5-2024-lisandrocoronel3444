@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\UNIVERSIDAD\\TALLER DE LENGUAJES 2\\TP5\\tl2-tp5-2024-lisandrocoronel3444\\tl2-tp5-2024-lisandrocoronel3444.csproj": {}
+  },
+  "projects": {
+    "C:\\UNIVERSIDAD\\TALLER DE LENGUAJES 2\\TP5\\tl2-tp5-2024-lisandrocoronel3444\\tl2-tp5-2024-lisandrocoronel3444.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UNIVERSIDAD\\TALLER DE LENGUAJES 2\\TP5\\tl2-tp5-2024-lisandrocoronel3444\\tl2-tp5-2024-lisandrocoronel3444.csproj",
+        "projectName": "tl2-tp5-2024-lisandrocoronel3444",
+        "projectPath": "C:\\UNIVERSIDAD\\TALLER DE LENGUAJES 2\\TP5\\tl2-tp5-2024-lisandrocoronel3444\\tl2-tp5-2024-lisandrocoronel3444.csproj",
+        "packagesPath": "C:\\Users\\lisan\\.nuget\\packages\\",
+        "outputPath": "C:\\UNIVERSIDAD\\TALLER DE LENGUAJES 2\\TP5\\tl2-tp5-2024-lisandrocoronel3444\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lisan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SQLite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
