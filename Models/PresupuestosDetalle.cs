@@ -1,6 +1,6 @@
 namespace productos.Models;
 
 public class PresupuestoDetalle{
-    public required Producto Producto;
-    public int Cantidad;
+    public Producto Producto {get; set;}
+    public int Cantidad {get; set;}
 }
